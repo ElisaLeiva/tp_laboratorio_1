@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1466014846 source:d:\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1466014322 d:\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\funciones.h
+
+1466015494 source:d:\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1466014846 source:d:\utn-fra\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473289004 d:\utn-fra\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\funciones.h
+
+1466015494 source:d:\utn-fra\utndeskg\tp 2 info\trabajopracticodos\tp_2_cristianm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1466014848 source:d:\tp2 ejemplo graficobarra\tp_2_cristianm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473289006 d:\tp2 ejemplo graficobarra\tp_2_cristianm\funciones.h
+
+1473289182 source:d:\tp2 ejemplo graficobarra\tp_2_cristianm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1466014848 source:f:\tp2 ejemplo graficobarra\tp_2_cristianm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473289006 f:\tp2 ejemplo graficobarra\tp_2_cristianm\funciones.h
+
+1474122070 source:f:\tp2 ejemplo graficobarra\tp_2_cristianm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474419032 source:f:\tp2 ejemplo graficobarra\tp-2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474419014 f:\tp2 ejemplo graficobarra\tp-2\funciones.h
+
+1474419014 source:f:\tp2 ejemplo graficobarra\tp-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
